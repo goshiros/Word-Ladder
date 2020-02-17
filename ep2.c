@@ -1,13 +1,3 @@
-/* ************************************************************************** */
-/* Nome: Giovana Oshiro da Silva                                              */
-/* Numero USP: 8022103                                                        */
-/*                                                                            */
-/* Nome: Lucas Freitas Bastos                                                 */
-/* Numero USP: 9783118                                                        */
-/*                                                                            */
-/* Exercício-programa 2                                                       */
-/* ************************************************************************** */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
